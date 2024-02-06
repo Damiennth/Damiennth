@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Damiennth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Damiennth/Damiennth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Damien
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Java & Angular
+- 💞️ I’m looking to create my own Video Game
+- 📫 How to reach me ? By Wifi
+- 😄 Pronouns: He
+- ⚡ Fun fact: Why do programmers prefer cold weather? Because it's easier to catch bugs when it's freezing!
